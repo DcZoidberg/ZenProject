@@ -1,0 +1,13 @@
+.no-fees {
+    &__block {
+        align-self: end;
+    }
+}
+
+@media(max-width: 850px) {
+    .no-fees {
+        &__block {
+            align-self: start;
+        }
+    }
+}

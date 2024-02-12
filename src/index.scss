@@ -1,0 +1,171 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;500&display=swap");
+
+:root {
+  --main-gray: #bdbdbd;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+}
+html {
+  box-sizing: border-box;
+  font-family: "Nunito", sans-serif;
+}
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1150px;
+  padding: 0 40px;
+  margin: 0 auto;
+}
+
+@media (max-width: 1150px) {
+  .container {
+    max-width: 850px;
+  }
+}
+@media (max-width: 850px) {
+  .container {
+    max-width: 650px;
+  }
+}
+@media (max-width: 650px) {
+  .container {
+    max-width: 100%;
+  }
+}
+
+.fz-18 {
+  font-size: 18px;
+}
+.fz-36 {
+  font-size: 36px;
+}
+.tac {
+  text-align: center;
+}
+
+.btn {
+  padding: 5px;
+  border: 1px solid #000000;
+  border-radius: 50px;
+  background-color: transparent;
+  cursor: pointer;
+  transition: all 0.3s;
+  &:hover {
+    background-color: black;
+    color: white;
+  }
+}
+.btn-app-download {
+  display: flex;
+  flex-direction: column;
+  a {
+    width: 170px;
+    height: 50px;
+    margin: 10px 0;
+    outline: none;
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  &__block {
+    width: 50%;
+    &.block-flex {
+      display: flex;
+      flex-direction: column;
+      justify-content: end;
+    }
+    #telephoneImg {
+      width: 100%;
+    }
+  }
+  &__text-block {
+    max-width: 430px;
+    h3 {
+      margin-bottom: 15px;
+    }
+    p {
+      margin-bottom: 10px;
+    }
+  }
+}
+@media (max-width: 850px) {
+  .wrapper {
+    display: block;
+    position: relative;
+    &__block {
+      width: 100%;
+      #telephoneImg {
+        top: 0;
+        right: 0;
+        position: absolute;
+        width: 80%;
+        opacity: 0.4;
+        z-index: -1;
+      }
+    }
+  }
+}
+@media (max-width: 550px) {
+  .wrapper {
+    &__block {
+      #telephoneImg {
+        width: 100%;
+      }
+    }
+  }
+}
+
+.padding-80 {
+  padding: 80px 0;
+}
+
+.padding-140-80 {
+  padding: 140px 0 80px 0;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.a-center {
+  align-items: center;
+}
+
+.a-end {
+  align-items: end;
+}
+
+.align-self-end {
+  align-self: end;
+}
+.loading {
+  margin: 0 auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  img {
+    border-radius: 20px;
+  }
+}
+@media (max-width: 420px) {
+  .loading {
+    width: 250px;
+    img {
+      width: 100%;
+    }
+  }
+}

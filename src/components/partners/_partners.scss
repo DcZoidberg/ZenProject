@@ -1,0 +1,33 @@
+.partners {
+  &__line {
+    overflow: hidden;
+  }
+  & h3 {
+    text-align: center;
+    margin: 10px 0 40px 0;
+  }
+  &__wrapper {
+    width: 1280px;
+    display: flex;
+    gap: 30px;
+    & img {
+      width: 100%;
+    }
+    animation: 20s linear partners-animation infinite;
+    &:hover {
+      animation-play-state: paused;
+    }
+    img {
+      user-select: none;
+    }
+  }
+}
+
+@keyframes partners-animation {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-139%);
+  }
+}

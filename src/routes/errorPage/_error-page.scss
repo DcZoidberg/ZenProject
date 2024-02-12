@@ -1,0 +1,26 @@
+.error {
+  &-title {
+    font-size: 46px;
+    margin: 20px 0;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 550px;
+    user-select: none;
+  }
+  p {
+    margin: 20px 0;
+    i {
+      color: var(--main-gray);
+    }
+  }
+}
+
+@media (max-width: 650px) {
+  .error {
+    img {
+      width: 100%;
+    }
+  }
+}

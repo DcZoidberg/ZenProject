@@ -1,0 +1,131 @@
+{
+  "header": {
+    "personal": "Osoba prywatna",
+    "business": "Firma",
+    "zenefits": "Zenefits",
+    "features": "Cechy",
+    "pricing": "Cenniki",
+    "getApp": "Zainstalować"
+  },
+  "footer": {
+    "learn": {
+      "title": "Nauka",
+      "helpCenter": "Centrum pomocy",
+      "joinTeam": "Dołącz do zespołu ZEN",
+      "privacyPolicy": "Polityka prywatności",
+      "cookies": "Cookies",
+      "terms": "Warunki użytkowania"
+    },
+    "discover": {
+      "title": "Odkryj",
+      "forDevelopers": "Dla deweloperów",
+      "apple": "Apple Pay",
+      "google": "Google Pay"
+    },
+    "offer": {
+      "title": "Oferta",
+      "business": "Biznes",
+      "personal": "Osobisty"
+    },
+    "language": {
+      "title": "Język",
+      "en": "Angielski",
+      "pl": "Polski"
+    },
+    "followUs": "Śledź nas",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "promo": {
+      "overtitle": "W każdym początku istnieje chaos.",
+      "title": { "top": "Spokojne zakupy.", "bottom": "Uważne pieniędze." },
+      "subtitle": "Zobacz jak my możemy pomóc zrobić Twoje doświadczenie zakupów i kierownictwo pieniędzmi bardziej ZEN."
+    },
+    "boost": {
+      "title": "Zwiększenie gwarancji o 1 rok",
+      "paragTop": "Karty ZEN mają bardzo przydatną funkcję, która pomoże Ci, gdy-kolwiek Twoje urządzenia zaczną zawodzić po zakończeniu standardowej gwarancji, co jest dość powszechne.",
+      "paragBottom": "Gdy kupujesz jaką-kolwiek elektronikę z twoją ZEN shopping Mastercard®, ich gwarancja zostaje przedłużona o jeden rok. Jak to działa? Po prostu automatycznie."
+    },
+    "zenCare": {
+      "title": "ZEN Care",
+      "paragTop": "Zakupy online są zazwyczaj przyjemnym przeżyciem. Dopóki tak nie jest.",
+      "paragMiddle": "Dopóki coś, co kupisz, nie okaże się wadliwe, brakujące lub całkowicie niewłaściwe, czeka Cię długa procedura zwrotu produktu.",
+      "paragBottom": "Ale tutaj pojawia się ZEN Care: darmowa, wbudowana ochrona zakupów. Możesz mieć pewność, że zajmiemy się wszystkimi problemami związanymi z transakcjami szybciej i z większą skutecznością. Tam, gdzie samotni konsumenci mogą zostać zignorowani lub porzuceni przez nieuczciwych sprzedawców, ZEN nie zniechęca się. ZEN nie ustępuje."
+    },
+    "cashback": {
+      "title": "i cashback!",
+      "parag": "Pozwala to zaoszczędzić trochę pieniędzy podczas zakupów, ale w wielu przypadkach potrzeba wieków, aby cokolwiek z tego wyciągnąć. Pomyśleliśmy o tym i uczyniliśmy cashback bardziej przyjaznym. Do 14% tego, co wydasz za pomocą karty ZEN Mastercard ®, pojawi się na Twoim koncie zaraz po zakupie. To tak, jakbyś targował się o gotówkę, mimo że nie musiałeś. Nie zapomnij tylko skorzystać z linku do cashbacku w aplikacji."
+    },
+    "partners": {
+      "title": "Nasi partnerzy"
+    },
+    "cardshop": {
+      "title": "ZEN shopping Mastercard",
+      "parag": "Nie powinieneś być zmuszony do korzystania z jednej karty na raz, zwłaszcza gdy ma ona tak wiele zalet! Dzięki ZEN możesz zarządzać swoimi zakupami i finansami zarówno za pomocą kart fizycznych, jak i wirtualnych. Jest to wygodne, usprawnione i działa jak urok. Możesz mieć kartę zakupową, kartę subskrypcyjną i dowolne inne karty, które mają dla Ciebie sens."
+    },
+    "noFees": {
+      "title": "Zakupy bez opłat",
+      "paragTop": "Zakupy online są obarczone wszelkiego rodzaju opłatami. Opłaty za wymianę walut, opłaty za przetwarzanie, a nawet opłaty za posiadanie wielu opłat. Pozbywanie się ich stało się naszym hobby. To samo dotyczy opłat za wypłaty z bankomatów.",
+      "paragBottom": "Ciesz się swoimi pieniędzmi na całym świecie. Każdą ich nieoszlifowaną częścią. Czytaj dalej. ZEN wykracza poza zakupy z w pełni funkcjonalnym kontem."
+    },
+    "oneApp": {
+      "title": "Jedna aplikacja, jedno konto, wiele walut",
+      "paragTop": "Karta ZEN Mastercard® została stworzona do wydawania pieniędzy. Konto ZEN służy do ich przechowywania i zarządzania nimi w spokoju, z wnętrza kieszeni.",
+      "paragBottom": "Można z niego korzystać jak ze zwykłego konta, ponieważ ma ono własny numer IBAN i działa tak, jak każde inne konto bankowe - ale lepiej. Przechowuj do 30 walut i przelewaj je z łatwością na wiele sposobów."
+    },
+    "quickEasy": {
+      "title": "Szybkie i łatwe tworzenie konta",
+      "paragTop": "Być może myślisz teraz, że to jak każde inne tworzenie konta... Długie, męczące i pełne niekończących się pól do wypełnienia. Ale tak nie jest.",
+      "paragBottom": "Zaprojektowaliśmy cały proces tak, aby był najprostszy i najkrótszy, jaki kiedykolwiek wymyślono dla konta osobistego. Pobierz aplikację i przekonaj się sam!"
+    }
+  },
+  "personal": {
+    "title": "Użytek osobisty",
+    "paragTop": "Chcemy podzielić się z wami tym, jak używamy aplikacji na naszym telefonie do zarządzania naszym czasem. Każdego ranka otwieramy aplikację i tworzymy listę rzeczy do zrobienia na dany dzień. Zapisujemy wszystkie zadania, które muszą zostać wykonane i nadajemy im priorytety.",
+    "paragBottom": "Ogólnie rzecz biorąc, aplikacja na naszym telefonie stała się niezbędnym narzędziem do organizowania mojego czasu i zwiększania produktywności. Bez niej często gubilibyśmy się w czasie i nie mielibyśmy czasu na wykonanie wszystkich naszych zadań. Dzięki tej aplikacji staliśmy się bardziej zorganizowani i wydajni."
+  },
+  "business": {
+    "title": "Drodzy klienci i partnerzy!",
+    "paragTop": "Mamy przyjemność powitać Państwa w naszej firmie, w której stawiamy na innowacyjność, jakość i zadowolenie klienta. Nasza firma oferuje szeroką gamę produktów i usług skoncentrowanych na różnych obszarach działalności.",
+    "paragBottom": "Jesteśmy dumni z naszego zespołu profesjonalistów, którzy ciężko pracują, aby tworzyć i dostarczać wysokiej jakości produkty i usługi. Nieustannie dążymy do poprawy i innowacji, aby pozostać w czołówce naszej branży."
+  },
+  "zenefits": {
+    "title": "Aplikacja Zenefits",
+    "parag": "Nasza aplikacja oferuje narzędzia do zarządzania budżetem i śledzenia wydatków. Użytkownicy mogą ustalać limity wydatków, otrzymywać powiadomienia o przekroczeniu budżetu i analizować swoje dane finansowe za pomocą wykresów i diagramów."
+  },
+  "features": {
+    "easy": {
+      "title": "Łatwość użytkowania",
+      "parag": "Nasza aplikacja ma intuicyjny interfejs, dzięki czemu jest łatwa w użyciu nawet dla tych, którzy nie mają doświadczenia z podobnymi aplikacjami. Użytkownicy mogą szybko i łatwo dokonywać transakcji pieniężnych bez poświęcania dużej ilości czasu na naukę interfejsu."
+    },
+    "security": {
+      "title": "Bezpieczeństwo",
+      "parag": "Karty ZEN mają bardzo przydatną funkcję, która pomoże ci, gdy twoje urządzenia elektroniczne zaczną się psuć po zakończeniu standardowej gwarancji, co jest dość powszechne."
+    },
+    "currency": {
+      "title": "Obsługa wielu walut",
+      "parag": "Nasza aplikacja obsługuje nie tylko główne waluty, ale także wiele walut regionalnych i kryptowalut. Pozwala to użytkownikom na dokonywanie międzynarodowych transakcji i pracę z różnymi aktywami finansowymi bez konieczności korzystania z innych systemów płatności."
+    }
+  },
+  "pricing": {
+    "bestPrice": {
+      "title": "Najlepsza cena",
+      "paragTop": "Z przyjemnością oferujemy najkorzystniejsze ceny naszych produktów i usług! Z nami znajdziesz najlepszy stosunek jakości do ceny, co pozwoli Ci zaoszczędzić pieniądze bez utraty jakości.",
+      "paragBottom": "Stale analizujemy rynek i staramy się oferować naszym klientom konkurencyjne ceny, których nie znajdziesz u nikogo innego. Naszym celem jest sprawienie, aby zakup był jak najbardziej przystępny i opłacalny."
+    },
+    "premiumPlans": {
+      "title": "Plany Premium",
+      "free": "Darmowy",
+      "basic": "Podstawowy",
+      "business": "Biznes",
+      "month": "miesiąc",
+      "getPlan": "Uzyskaj plan"
+    },
+    "discount": {
+      "title": "Zniżka",
+      "paragTop": "Zapraszamy do skorzystania z wyjątkowej oferty - rabatów dla kupujących po raz pierwszy! Doceniamy Twój wybór i jesteśmy gotowi zadowolić Cię specjalnymi warunkami naszych towarów i usług. Dokonaj u nas pierwszego zakupu i otrzymaj atrakcyjny rabat!",
+      "paragBottom": "Ale to nie wszystko! Z przyjemnością oferujemy również ekskluzywne zniżki z okazji świąt! Niezależnie od tego, czy jest to Sylwester, Walentynki, Dzień Matki czy inne święto, przygotowaliśmy dla Ciebie specjalne oferty i lukratywne rabaty. Podaruj sobie i swoim bliskim niezapomniane chwile dzięki naszym wyjątkowym produktom i usługom."
+    }
+  },
+  "modalGetApp": "Wystarczy kliknąć jeden z poniższych linków"
+}

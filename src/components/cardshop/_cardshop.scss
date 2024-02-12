@@ -1,0 +1,10 @@
+.cardshop {
+    &__btn {
+        display: flex;
+        margin-top: 15px;
+        a {
+            text-decoration: none;
+            margin-right: 10px;
+        }
+    }
+}

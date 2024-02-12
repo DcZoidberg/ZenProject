@@ -1,0 +1,22 @@
+.quick-easy {
+    &__block {
+        align-self: end;
+    }
+    &__btns {
+        flex-direction: row;
+        a {
+            margin-right: 15px;
+        }
+    }
+}
+
+@media (max-width: 850px) {
+    .quick-easy {
+        &__block {
+            align-self: start;
+        }
+        &__btns {
+            flex-direction: column;
+        }
+    }
+}

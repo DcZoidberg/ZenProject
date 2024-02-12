@@ -1,0 +1,131 @@
+{
+  "header": {
+    "personal": "Personal",
+    "business": "Business",
+    "zenefits": "Zenefits",
+    "features": "Features",
+    "pricing": "Pricing",
+    "getApp": "Get app"
+  },
+  "footer": {
+    "learn": {
+      "title": "Learn",
+      "helpCenter": "Help center",
+      "joinTeam": "Join ZEN team",
+      "privacyPolicy": "Privacy Policy",
+      "cookies": "Cookies",
+      "terms": "Terms of use"
+    },
+    "discover": {
+      "title": "Discover",
+      "forDevelopers": "For developers",
+      "apple": "Apple Pay",
+      "google": "Google Pay"
+    },
+    "offer": {
+      "title": "Offer",
+      "business": "Business",
+      "personal": "Personal"
+    },
+    "language": {
+      "title": "Language",
+      "en": "English",
+      "pl": "Polish"
+    },
+    "followUs": "Follow Us",
+    "contact": "Contact"
+  },
+  "home": {
+    "promo": {
+      "overtitle": "In every beginning, there is chaos.",
+      "title": { "top": "Peaceful shopping.", "bottom": "Mindful money." },
+      "subtitle": "See how we can help with making your shopping experience and money management more ZEN."
+    },
+    "boost": {
+      "title": "1-year warranty boost",
+      "paragTop": "ZEN cards have a very neat feature that will help you whenever your electronic devices start failing after the standard warranty ends, which is pretty common.",
+      "paragBottom": "When you buy any electronics with your ZEN shopping Mastercard®, their warranty gets extended by one year. How does it work? It simply does. Automatically."
+    },
+    "zenCare": {
+      "title": "ZEN Care",
+      "paragTop": "Shopping online is usually a delightful experience. Until it's not.",
+      "paragMiddle": "Until something you buy, proves to be faulty, missing or a totally wrong item, you’re in for long product return procedures.",
+      "paragBottom": "But, here comes ZEN Care: a free, built-in shopping protection. You can rest assured we’ll handle all of the transaction-related problems faster and with higher success rates. Where lone consumers can be ignored or dumped by dishonest merchants, ZEN doesn't get discouraged. ZEN persists."
+    },
+    "cashback": {
+      "title": "and cashback!",
+      "parag": "It saves a little bit of money while you’re shopping, but in many cases it takes ages to get anything out of it. We gave it a thought and made cashback way more friendly. Up to 14% of what you spend using ZEN Mastercard ® will materialize on your account right after the purchase. It's like you haggled some cash, despite you didn't have to. Just don't forget to use in-app cashback link."
+    },
+    "partners": {
+      "title": "Our Partners"
+    },
+    "cardshop": {
+      "title": "ZEN shopping Mastercard",
+      "parag": "You shouldn’t be bound to use one card at a time, especially when it has so many benefits! With ZEN, you can manage your shopping and finances with both physical and virtual cards. It’s convenient, streamlined, and works like a charm. You can have a shopping card, a subscription card, and whatever other cards that make sense to you."
+    },
+    "noFees": {
+      "title": "Shopping with no fees",
+      "paragTop": "Online shopping is flawed with all kind of fees. Currency exchange fees, processing fees and even fees for having multiple fees. Getting rid of them became our hobby. Same goes for ATM withdrawal fees.",
+      "paragBottom": "Enjoy your money globally. Every uncut part of it. Keep reading. ZEN goes beyond shopping with a fully functional account."
+    },
+    "oneApp": {
+      "title": "One app, one account, many currencies",
+      "paragTop": "ZEN Mastercard® was made for spending money. ZEN account is here to store and manage it peacefully, from the inside of your pocket.",
+      "paragBottom": "You can use it just like a regular account, as it has its own IBAN and works just the way any bank account would — but better. Store up to 30 currencies and transfer them easily in many ways."
+    },
+    "quickEasy": {
+      "title": "Quick and easy account creation",
+      "paragTop": "Now, you might be thinking that it’s just like any other account creation… Long, tiresome and full of endless blanks to fill in. Well, it’s not.",
+      "paragBottom": "We have designed the whole process to make it the simplest and the shortest one ever conceived for a personal account. Download the app and see for yourself!"
+    }
+  },
+  "personal": {
+    "title": "Personal Use",
+    "paragTop": "We want to share with you how we use an app on our phone to manage our time. Every morning we open the app and create a to-do list for the day. We write down all the tasks that need to be done and prioritize them.",
+    "paragBottom": "In general, the app on our phone has become an indispensable tool for organizing my time and increasing my productivity. Without it, We would often get lost in time and not have time to complete all our tasks. Thanks to this app, we have become more organized and efficient."
+  },
+  "business": {
+    "title": "Dear customers and partners!",
+    "paragTop": "We are pleased to welcome you to our business, where we are committed to innovation, quality and customer satisfaction. Our company offers a wide range of products and services focused on different areas of activity.",
+    "paragBottom": "We are proud of our team of professionals who work hard to create and deliver high quality products and services. We constantly strive to improve and innovate to stay at the forefront of our industry."
+  },
+  "zenefits": {
+    "title": "Zenefits App",
+    "parag": "Our app offers tools for budget management and expense tracking. Users can set limits on their spending, receive notifications when they exceed their budget, and analyze their financial data with charts and graphs."
+  },
+  "features": {
+    "easy": {
+      "title": "Ease of use",
+      "parag": "Our application has an intuitive interface, which makes it easy to use even for those who have no experience with similar applications. Users can make money transactions quickly and easily without spending a lot of time learning the interface."
+    },
+    "security": {
+      "title": "Security",
+      "parag": "ZEN cards have a very neat feature that will help you whenever your electronic devices start failing after the standard warranty ends, which is pretty common."
+    },
+    "currency": {
+      "title": "Multiple currency support",
+      "parag": "Our app supports not only major currencies, but also many regional and cryptocurrencies. This allows users to make international transactions and work with various financial assets without having to use other payment systems."
+    }
+  },
+  "pricing": {
+    "bestPrice": {
+      "title": "Best Price",
+      "paragTop": "We are pleased to offer you the most favorable prices for our products and services! With us you will find the best value for money, which will allow you to save money without losing quality.",
+      "paragBottom": "We constantly analyze the market and try to offer our customers competitive prices that you will not find from anyone else. Our goal is to make your purchase as affordable and profitable as possible."
+    },
+    "premiumPlans": {
+      "title": "Premium Plans",
+      "free": "Free",
+      "basic": "Basic",
+      "business": "Business",
+      "month": "month",
+      "getPlan": "Get Plan"
+    },
+    "discount": {
+      "title": "Discount",
+      "paragTop": "We invite you to take advantage of a unique offer - discounts for first-time buyers! We appreciate your choice and are ready to please you with special conditions of our goods and services. Make your first purchase from us and get a nice discount!",
+      "paragBottom": "But that's not all! We are also happy to offer you exclusive discounts on the occasion of holidays! Whether it is New Year's Eve, Valentine's Day, Mother's Day or any other holiday, we have prepared special offers and lucrative discounts for you. Give yourself and your loved ones unforgettable moments with our unique products and services."
+    }
+  },
+  "modalGetApp": "Just click one of these links"
+}

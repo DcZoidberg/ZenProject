@@ -1,0 +1,14 @@
+.boost {
+    &__text {
+        margin-bottom: 100px;
+        align-self: end;
+    }
+}
+
+@media (max-width: 850px) {
+    .boost {
+        &__text {
+            align-self: start;
+        }
+    }
+}
